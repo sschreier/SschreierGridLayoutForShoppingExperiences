@@ -1,0 +1,63 @@
+{% block cms_block_grid_md_2_2_2_2_2_2 %}
+    {% set columns = 6 %}
+
+    {% block cms_block_grid_md_2_2_2_2_2_2_element1 %}
+        {% set element = block.slots.getSlot('content1') %}
+
+        <div class="col-md-2" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_2_2_2_2_2_2_element1_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block cms_block_grid_md_2_2_2_2_2_2_element2 %}
+        {% set element = block.slots.getSlot('content2') %}
+
+        <div class="col-md-2" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_2_2_2_2_2_2_element2_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block cms_block_grid_md_2_2_2_2_2_2_element3 %}
+        {% set element = block.slots.getSlot('content3') %}
+
+        <div class="col-md-2" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_2_2_2_2_2_2_element3_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block cms_block_grid_md_2_2_2_2_2_2_element4 %}
+        {% set element = block.slots.getSlot('content4') %}
+
+        <div class="col-md-2" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_2_2_2_2_2_2_element4_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block cms_block_grid_md_2_2_2_2_2_2_element5 %}
+        {% set element = block.slots.getSlot('content5') %}
+
+        <div class="col-md-2" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_2_2_2_2_2_2_element5_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block cms_block_grid_md_2_2_2_2_2_2_element6 %}
+        {% set element = block.slots.getSlot('content6') %}
+
+        <div class="col-md-2" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_2_2_2_2_2_2_element6_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+{% endblock %}

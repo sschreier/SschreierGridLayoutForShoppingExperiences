@@ -1,0 +1,33 @@
+{% block cms_block_grid_md_4_4_4 %}
+    {% set columns = 3 %}
+
+    {% block cms_block_grid_md_4_4_4_element1 %}
+        {% set element = block.slots.getSlot('content1') %}
+
+        <div class="col-md-4" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_4_4_4_element1_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block cms_block_grid_md_4_4_4_element2 %}
+        {% set element = block.slots.getSlot('content2') %}
+
+        <div class="col-md-4" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_4_4_4_element2_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+
+    {% block cms_block_grid_md_4_4_4_element3 %}
+        {% set element = block.slots.getSlot('content3') %}
+
+        <div class="col-md-4" data-cms-element-id="{{ element.id }}">
+            {% block cms_block_grid_md_4_4_4_element3_inner %}
+                {% sw_include "@Storefront/storefront/element/cms-element-" ~ element.type ~ ".html.twig" ignore missing %}
+            {% endblock %}
+        </div>
+    {% endblock %}
+{% endblock %}

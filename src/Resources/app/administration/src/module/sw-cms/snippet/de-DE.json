@@ -1,0 +1,41 @@
+{
+  "sw-cms": {
+    "blocks": {
+      "grid": {
+        "grid-12": {
+          "label": "1 Spalte"
+        },
+        "grid-md-6-6": {
+          "label": "2 Spalten ab 768px"
+        },
+        "grid-md-3-9": {
+          "label": "2 Spalten ab 768px (25%, 75%)"
+        },
+        "grid-md-9-3": {
+          "label": "2 Spalten ab 768px (75%, 25%)"
+        },
+        "grid-md-4-8": {
+          "label": "2 Spalten ab 768px (33.3%, 66.6%)"
+        },
+        "grid-md-8-4": {
+          "label": "2 Spalten ab 768px (66.6%, 33.3%)"
+        },
+        "grid-md-4-4-4": {
+          "label": "3 Spalten ab 768px"
+        },
+        "grid-md-3-6-3": {
+          "label": "3 Spalten ab 768px (25%, 50%, 25%)"
+        },
+        "grid-md-2-8-2": {
+          "label": "3 Spalten ab 768px (16.6%, 66.6%, 16.6%)"
+        },
+        "grid-md-3-3-3-3": {
+          "label": "4 Spalten ab 768px"
+        },
+        "grid-md-2-2-2-2-2-2": {
+          "label": "6 Spalten ab 768px"
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "sschreier/sschreiergridlayoutforshoppingexperiences",
   "description": "grid layout / columns for the shopping experiences",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "shopware-platform-plugin",
   "license": "GPL-3.0-or-later",
   "authors": [

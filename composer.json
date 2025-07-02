@@ -1,43 +1,43 @@
 {
-  "name": "sschreier/sschreiergridlayoutforshoppingexperiences",
-  "description": "grid layout / columns for the shopping experiences",
-  "version": "1.0.1",
-  "type": "shopware-platform-plugin",
-  "license": "GPL-3.0-or-later",
-  "authors": [
-    {
-      "name": "Sebastian Schreier",
-      "role": "Manufacturer"
-    }
-  ],
-  "require": {
-    "shopware/core": "~6.6.0",
-    "shopware/storefront": "~6.6.0"
-  },
-  "extra": {
-    "shopware-plugin-class": "Sschreier\\GridLayoutForShoppingExperiences\\SschreierGridLayoutForShoppingExperiences",
-    "plugin-icon": "src/Resources/config/plugin.png",
-    "copyright": "Sebastian Schreier",
-    "label": {
-      "de-DE": "Grid-Layout / Spalten für die Erlebniswelten",
-      "en-GB": "grid layout / columns for the shopping experiences"
+    "name": "sschreier/sschreiergridlayoutforshoppingexperiences",
+    "description": "grid layout / columns for the shopping experiences",
+    "version": "1.1.0",
+    "type": "shopware-platform-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Sebastian Schreier",
+            "role": "Manufacturer"
+        }
+    ],
+    "require": {
+        "shopware/core": "~6.7.0",
+        "shopware/storefront": "~6.7.0"
     },
-    "description": {
-      "de-DE": "Die Erweiterung stellt weitere CMS-Blöcke mit verschiedenen Spaltenanordnungen unter der Block-Kategorie 'Text' innerhalb eines Layouts zur Verfügung. Die CMS-Blöcke basieren dabei auf dem 12-spaltigen Grid-Layout von Bootstrap. Sobald der CMS-Block im Layout platziert wurde, kann das jeweilige CMS-Element vom Typ 'Text' bei Bedarf wie gewohnt über das entsprechende Icon ausgetauscht werden.",
-      "en-GB": "The extension provides additional cms blocks with different column arrangements under the block category 'Text' within a layout. The cms blocks are based on the 12-column grid layout of Bootstrap. As soon as the cms block has been placed in the layout, the respective cms element with the type 'Text' can be replaced if required as usual using the corresponding icon."
+    "extra": {
+        "shopware-plugin-class": "Sschreier\\GridLayoutForShoppingExperiences\\SschreierGridLayoutForShoppingExperiences",
+        "plugin-icon": "src/Resources/config/plugin.png",
+        "copyright": "Sebastian Schreier",
+        "label": {
+            "de-DE": "Grid-Layout / Spalten für die Erlebniswelten",
+            "en-GB": "grid layout / columns for the shopping experiences"
+        },
+        "description": {
+            "de-DE": "Die Erweiterung stellt weitere CMS-Blöcke mit verschiedenen Spaltenanordnungen unter der Block-Kategorie 'Text' innerhalb eines Layouts zur Verfügung. Die CMS-Blöcke basieren dabei auf dem 12-spaltigen Grid-Layout von Bootstrap. Sobald der CMS-Block im Layout platziert wurde, kann das jeweilige CMS-Element vom Typ 'Text' bei Bedarf wie gewohnt über das entsprechende Icon ausgetauscht werden.",
+            "en-GB": "The extension provides additional cms blocks with different column arrangements under the block category 'Text' within a layout. The cms blocks are based on the 12-column grid layout of Bootstrap. As soon as the cms block has been placed in the layout, the respective cms element with the type 'Text' can be replaced if required as usual using the corresponding icon."
+        },
+        "manufacturerLink": {
+            "de-DE": "https://www.sebastianschreier.de",
+            "en-GB": "https://www.sebastianschreier.de"
+        },
+        "supportLink": {
+            "de-DE": "https://www.sebastianschreier.de",
+            "en-GB": "https://www.sebastianschreier.de"
+        }
     },
-    "manufacturerLink": {
-      "de-DE": "https://www.sebastianschreier.de",
-      "en-GB": "https://www.sebastianschreier.de"
-    },
-    "supportLink": {
-      "de-DE": "https://www.sebastianschreier.de",
-      "en-GB": "https://www.sebastianschreier.de"
+    "autoload": {
+        "psr-4": {
+            "Sschreier\\GridLayoutForShoppingExperiences\\": "src/"
+        }
     }
-  },
-  "autoload": {
-    "psr-4": {
-      "Sschreier\\GridLayoutForShoppingExperiences\\": "src/"
-    }
-  }
 }

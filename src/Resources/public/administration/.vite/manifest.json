@@ -1,0 +1,230 @@
+{
+  "main.js": {
+    "file": "assets/sschreier-grid-layout-for-shopping-experiences-D-JUseF8.js",
+    "name": "sschreier-grid-layout-for-shopping-experiences",
+    "src": "main.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "module/sw-cms/blocks/grid/grid-12/component/index.js",
+      "module/sw-cms/blocks/grid/grid-12/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-6-6/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-6-6/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-3-9/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-3-9/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-9-3/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-9-3/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-4-8/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-4-8/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-8-4/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-8-4/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-4-4-4/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-4-4-4/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-3-6-3/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-3-6-3/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-2-8-2/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-2-8-2/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-3-3-3-3/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-3-3-3-3/preview/index.js",
+      "module/sw-cms/blocks/grid/grid-md-2-2-2-2-2-2/component/index.js",
+      "module/sw-cms/blocks/grid/grid-md-2-2-2-2-2-2/preview/index.js"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-12/component/index.js": {
+    "file": "assets/index-BtI2uySu.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-12/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-DPspcVC7.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-12/preview/index.js": {
+    "file": "assets/index-DFOnRc5I.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-12/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-BKPZ62Sa.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-2-2-2-2-2-2/component/index.js": {
+    "file": "assets/index-Bj5pcC71.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-2-2-2-2-2-2/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-B213Lxiu.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-2-2-2-2-2-2/preview/index.js": {
+    "file": "assets/index-DOwG5U0t.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-2-2-2-2-2-2/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-BuzHyV6X.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-2-8-2/component/index.js": {
+    "file": "assets/index-Dy8dCmQj.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-2-8-2/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-CIcxgdmx.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-2-8-2/preview/index.js": {
+    "file": "assets/index-CuJzJ4wb.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-2-8-2/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-ChZpHU4F.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-3-3-3-3/component/index.js": {
+    "file": "assets/index-avnueDkL.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-3-3-3-3/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-CegVE3al.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-3-3-3-3/preview/index.js": {
+    "file": "assets/index-DrLyMBai.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-3-3-3-3/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-BayTZqhw.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-3-6-3/component/index.js": {
+    "file": "assets/index-DekUSgtP.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-3-6-3/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-BjdaSuA-.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-3-6-3/preview/index.js": {
+    "file": "assets/index-CEKlEec1.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-3-6-3/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-CrGPZtJ1.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-3-9/component/index.js": {
+    "file": "assets/index-DB9JMKrH.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-3-9/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-DEu4t9V6.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-3-9/preview/index.js": {
+    "file": "assets/index-BjTcgM4V.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-3-9/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-DI1BXfT6.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-4-4-4/component/index.js": {
+    "file": "assets/index-DA33LOMV.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-4-4-4/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-5yjs4J8T.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-4-4-4/preview/index.js": {
+    "file": "assets/index-BYyizDWl.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-4-4-4/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-Dn13VmeJ.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-4-8/component/index.js": {
+    "file": "assets/index-BX_lSD2E.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-4-8/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-yQxfZ0Zh.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-4-8/preview/index.js": {
+    "file": "assets/index-BS6-so9f.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-4-8/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-Bqlt_CEI.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-6-6/component/index.js": {
+    "file": "assets/index-Rz9-26AQ.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-6-6/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-C150IVUS.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-6-6/preview/index.js": {
+    "file": "assets/index-HMPg0DZt.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-6-6/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-DvMEma4p.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-8-4/component/index.js": {
+    "file": "assets/index-C4i1RhuU.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-8-4/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-DL9G_fTe.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-8-4/preview/index.js": {
+    "file": "assets/index-CU6JKxLK.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-8-4/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-RMHZZ5t_.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-9-3/component/index.js": {
+    "file": "assets/index-D2UFqqUn.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-9-3/component/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-CaA6nCvW.css"
+    ]
+  },
+  "module/sw-cms/blocks/grid/grid-md-9-3/preview/index.js": {
+    "file": "assets/index-CVvvab7S.js",
+    "name": "index",
+    "src": "module/sw-cms/blocks/grid/grid-md-9-3/preview/index.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/index-DE2vN-Cb.css"
+    ]
+  }
+}

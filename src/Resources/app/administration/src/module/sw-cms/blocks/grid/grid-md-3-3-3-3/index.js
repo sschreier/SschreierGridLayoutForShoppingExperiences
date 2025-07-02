@@ -1,18 +1,5 @@
-/**
- * @private
- * @package buyers-experience
- */
-Shopware.Component.register('sw-cms-block-preview-grid-md-3-3-3-3', () => import('./preview'));
-/**
- * @private
- * @package buyers-experience
- */
 Shopware.Component.register('sw-cms-block-grid-md-3-3-3-3', () => import('./component'));
-
-/**
- * @private
- * @package buyers-experience
- */
+Shopware.Component.register('sw-cms-block-preview-grid-md-3-3-3-3', () => import('./preview'));
 
 Shopware.Service('cmsService').registerCmsBlock({
     name: 'grid-md-3-3-3-3',
@@ -25,12 +12,12 @@ Shopware.Service('cmsService').registerCmsBlock({
         marginTop: '20px',
         marginLeft: '20px',
         marginRight: '20px',
-        sizingMode: 'boxed'
+        sizingMode: 'boxed',
     },
     slots: {
         content1: 'text',
         content2: 'text',
         content3: 'text',
-        content4: 'text'
+        content4: 'text',
     }
 });

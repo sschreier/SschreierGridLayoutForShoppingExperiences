@@ -1,0 +1,2 @@
+const _='{% block sw_cms_block_grid_md_3_3_3_3 %} <div class="sw-cms-block-grid-md-3-3-3-3"> <slot name="content1"> {% block sw_cms_block_grid_md_3_3_3_3_content1 %}{% endblock %} </slot> <slot name="content2"> {% block sw_cms_block_grid_md_3_3_3_3_content2 %}{% endblock %} </slot> <slot name="content3"> {% block sw_cms_block_grid_md_3_3_3_3_content3 %}{% endblock %} </slot> <slot name="content4"> {% block sw_cms_block_grid_md_3_3_3_3_content4 %}{% endblock %} </slot> </div> {% endblock %}',o={template:_};export{o as default};
+//# sourceMappingURL=index-avnueDkL.js.map

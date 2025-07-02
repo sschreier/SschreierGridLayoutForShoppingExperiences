@@ -1,0 +1,46 @@
+{
+  "base": "/bundles/sschreiergridlayoutforshoppingexperiences/administration/",
+  "entryPoints": {
+    "sschreier-grid-layout-for-shopping-experiences": {
+      "css": [],
+      "dynamic": [
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-BtI2uySu.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-DFOnRc5I.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-Rz9-26AQ.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-HMPg0DZt.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-DB9JMKrH.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-BjTcgM4V.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-D2UFqqUn.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-CVvvab7S.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-BX_lSD2E.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-BS6-so9f.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-C4i1RhuU.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-CU6JKxLK.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-DA33LOMV.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-BYyizDWl.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-DekUSgtP.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-CEKlEec1.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-Dy8dCmQj.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-CuJzJ4wb.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-avnueDkL.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-DrLyMBai.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-Bj5pcC71.js",
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/index-DOwG5U0t.js"
+      ],
+      "js": [
+        "/bundles/sschreiergridlayoutforshoppingexperiences/administration/assets/sschreier-grid-layout-for-shopping-experiences-D-JUseF8.js"
+      ],
+      "legacy": false,
+      "preload": []
+    }
+  },
+  "legacy": false,
+  "metadatas": {},
+  "version": [
+    "7.1.0",
+    7,
+    1,
+    0
+  ],
+  "viteServer": null
+}
